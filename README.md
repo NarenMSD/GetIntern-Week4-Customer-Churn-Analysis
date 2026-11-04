@@ -84,7 +84,7 @@
 
   📂 Project Structure
 
-  ├── Customer_Churn_Analysis_Week4.ipynb    # Full analysis with code & narratives
+  ├── Week4_Customer_Churn_Analysis.ipynb    # Full analysis with code & narratives
   
   ├── images/                                # Folder containing exported charts
   
