@@ -55,15 +55,16 @@
   ---
 
   🖼️ Visual Storyboard
+  
+  
+## 📊 Customer Churn Storyboard
+
+| Overall Attrition | Contract Influence | Payment Correlation |
+|:---:|:---:|:---:|
+| ![Overall Churn](images/Overall_Churn.png) | ![Contract Impact](images/Contract_Impact.png) | ![Payment Factors](images/Payment_Factors.png) |
+| **Baseline Churn Distribution** | **Churn by Contract Type** | **Churn by Payment Method** |
 
 
-  ┌────────────────────────────────────────────┬─────────────────────────────────────────────┬───────────────────────────────────────────┐
-  │             Overall Attrition              │             Contract Influence              │            Payment Correlation            │
-  ├────────────────────────────────────────────┼─────────────────────────────────────────────┼───────────────────────────────────────────┤
-  │ Baseline Churn (images/baseline_churn.png) │ Contract Impact (images/contract_churn.png) │ Payment Method (images/payment_churn.png) │
-  ├────────────────────────────────────────────┼─────────────────────────────────────────────┼───────────────────────────────────────────┤
-  │        Baseline Churn Distribution         │           Churn by Contract Type            │          Churn by Payment Method          │
-  └────────────────────────────────────────────┴─────────────────────────────────────────────┴───────────────────────────────────────────┘
 
   ---
 
